@@ -1,4 +1,4 @@
-![shahua]("./shahua.gif")
+![shahua](./shahua.gif)
 
 # ✨ 欢迎来到我的主页
 
